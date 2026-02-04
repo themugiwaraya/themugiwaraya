@@ -7,12 +7,22 @@ Welcome to my GitHub account!
 ## 💡 About Me  
 
 I am a backend developer focused on building **scalable, maintainable, and high-performance systems**.  
-I enjoy designing clean backend architectures, optimizing performance, and developing reliable APIs and services.
+I enjoy designing clean backend architectures, optimizing performance, and developing reliable APIs and services.  
+
+I also work with **AI/ML-powered applications**, building intelligent systems that combine backend engineering with machine learning and LLM integrations.
 
 ---
 
 ## 🛠 Technologies & Interests  
 
+### 🧠 AI / ML Development  
+**LLM Integrations** — Building applications powered by large language models.  
+**Ollama** — Running and integrating local LLMs into backend services.  
+**Streamlit** — Creating interactive ML/AI web interfaces and tools.  
+**ChromaDB** — Vector database for semantic search and Retrieval-Augmented Generation (RAG) systems.  
+**RAG Systems** — Combining vector search with LLMs for context-aware AI assistants.
+
+### ⚙️ Backend Development  
 **Python** — My primary language for backend development, automation, and data-driven services.  
 
 **Flask** — Lightweight framework for building simple, flexible web services and APIs.  
